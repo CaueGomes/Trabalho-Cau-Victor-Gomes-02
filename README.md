@@ -1,2 +1,2 @@
-# Trabalho-Caue-Victor-Gomes-02
+# TrabalhoCaueVictorGomes02
  Segundo trabalho do curso de C#
