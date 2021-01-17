@@ -1,0 +1,52 @@
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.exe
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.deps.json
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.runtimeconfig.json
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.runtimeconfig.dev.json
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.dll
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.pdb
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.csprojAssemblyReference.cache
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.AssemblyInfoInputs.cache
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.AssemblyInfo.cs
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.csproj.CoreCompileInputs.cache
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.dll
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.pdb
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.genruntimeconfig.cache
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.exe
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.deps.json
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.runtimeconfig.json
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.runtimeconfig.dev.json
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.dll
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.pdb
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.csprojAssemblyReference.cache
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.AssemblyInfoInputs.cache
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.AssemblyInfo.cs
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.csproj.CoreCompileInputs.cache
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.dll
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.pdb
+C:\Users\caue.gomes\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.genruntimeconfig.cache
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.exe
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.deps.json
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.runtimeconfig.json
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.runtimeconfig.dev.json
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.dll
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.pdb
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.csprojAssemblyReference.cache
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.AssemblyInfoInputs.cache
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.AssemblyInfo.cs
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.csproj.CoreCompileInputs.cache
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.dll
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.pdb
+C:\Users\nekro\Desktop\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.genruntimeconfig.cache
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.exe
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.deps.json
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.runtimeconfig.json
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.runtimeconfig.dev.json
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.dll
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\bin\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.pdb
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.csprojAssemblyReference.cache
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.AssemblyInfoInputs.cache
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.AssemblyInfo.cs
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.csproj.CoreCompileInputs.cache
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.dll
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.pdb
+C:\Users\nekro\Desktop\projetos\Trabalho Cauê Victor Gomes 02\obj\Debug\netcoreapp3.1\Trabalho Cauê Victor Gomes 02.genruntimeconfig.cache
